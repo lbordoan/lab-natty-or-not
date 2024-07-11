@@ -20,6 +20,6 @@ Com o power point, fiz as edições e gerei o pdf do Ebook.
 
 ## 🚀 Resultados
 
-O resultado foi um livro que inclui  receitas conhecidas e bem caracteristicas de cada região, seguindo o prompt. O resultado do ebook encontra-se em 'output'
+O resultado foi um livro que inclui  receitas conhecidas e bem caracteristicas de cada região, seguindo o prompt. Acesse o ebook (https://github.com/lbordoan/lab-natty-or-not/blob/main/output/ebook%20_receitas.pdf).
 
 
