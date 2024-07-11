@@ -1,4 +1,4 @@
-# Projeto Ebook - Receitas brasileiras uma jornada de sabor
+# Projeto Ebook - Receitas brasileiras: uma jornada de sabor
 
 ## 📒 Descrição
 Projeto Ebook: Um livro de receitas brasileiras de todas as regiões
@@ -20,6 +20,6 @@ Com o power point, fiz as edições e gerei o pdf do Ebook.
 
 ## 🚀 Resultados
 
-O resultado foi um livro que inclui  receitas conhecidas e bem caracteristicas de cada região, seguindo o prompt. Acesse o [ebook] (https://github.com/lbordoan/lab-natty-or-not/blob/main/output/ebook%20_receitas.pdf).
+O resultado foi um livro que inclui  receitas conhecidas e bem caracteristicas de cada região, seguindo o prompt. Acesse o ebook em https://github.com/lbordoan/lab-natty-or-not/blob/main/output/ebook%20_receitas.pdf.
 
 
